@@ -12,6 +12,7 @@
 - [Thomas](https://github.com/Thomas-Leo)
 - [Chao Cherng] (https://github.com/ChaoCherng-Lee)
 - [Abhishek Upadhyay](http://github.com/GitsGut)
+- [Sick alien](https://github.com/Vandana-Ss)
 - [caliarch](https://github.com/caliarch)
 - [Arnav Agarwal](https://github.com/arnav-343-agarwal)
 [Patrick Yeboah Bonsu](https://github.com/Patrick-Bonsu)
